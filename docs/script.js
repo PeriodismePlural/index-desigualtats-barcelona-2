@@ -701,3 +701,7 @@ const tooltip = d3.select("body").append("div")
                                 .duration(200)
                                 .style("opacity", 0);
                               });
+                          
+                            });
+        });
+      }(d3);
