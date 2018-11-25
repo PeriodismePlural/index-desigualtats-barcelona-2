@@ -48,7 +48,6 @@ h1 {
   font-variant: normal;
   font-weight: 550;
   margin: auto;
-  fill: black;
   text-anchor: middle;
 }
 
@@ -59,7 +58,6 @@ h1 {
   font-variant: normal;
   font-weight: 550;
   margin: auto;
-  fill: #737373;
   text-anchor: middle;
 }
 
@@ -68,7 +66,7 @@ div.tooltip {
     position: absolute;
     text-align: left;
     width:  125px;
-    height: 115px;
+    height: 130px;
     padding: 8px;
     font-size: 12px;
 		font-family: "Open Sans";
